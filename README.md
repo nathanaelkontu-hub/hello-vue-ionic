@@ -1,18 +1,18 @@
 # Hello Vue Ionic
 
 ## Masalah
-[Jelaskan masalah nyata yang ingin diselesaikan aplikasi ini — 
-contoh: "Pengguna kesulitan mencatat pengeluaran harian karena 
-aplikasi yang ada terlalu rumit."]
+Sebelum membangun aplikasi mobile yang lebih kompleks, diperlukan verifikasi 
+bahwa environment pengembangan Vue 3, Ionic, dan Capacitor sudah terpasang 
+dan terkonfigurasi dengan benar. Tanpa langkah verifikasi ini, developer 
+berisiko menghabiskan waktu men-debug masalah environment saat sudah masuk 
+ke tahap pengembangan fitur yang sesungguhnya.
 
 ## Target Pengguna
-[Siapa yang akan memakai aplikasi ini — 
-contoh: "Mahasiswa dan pekerja muda yang ingin mencatat 
-keuangan pribadi secara sederhana."]
+Developer atau mahasiswa yang sedang belajar membangun aplikasi mobile 
+hybrid menggunakan Vue 3, Ionic Framework, dan Capacitor, dan ingin 
+memastikan setup proyek awal berjalan dengan baik sebelum melanjutkan ke 
+pengembangan fitur.
 
 ## Scope MVP
-- [Fitur inti #1]
-- [Fitur inti #2]
-- [Fitur inti #3]
-(Jelaskan fitur MINIMAL yang harus ada agar aplikasi bisa dipakai, 
-bukan semua fitur ideal.)
+- Menjalankan proyek Vue 3 + Ionic di browser melalui `ionic serve`
+- Menampilkan halaman "Hello World" sebagai bukti proyek berhasil
